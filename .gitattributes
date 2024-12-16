@@ -1,4 +1,0 @@
-*.ipynb linguist-vendored
-*.py linguist-language=Python
-*.cpp linguist-language=C++
-*.html linguist-language=HTML
